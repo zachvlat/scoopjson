@@ -1,0 +1,182 @@
+[
+	{
+		"name": "Brave",
+		"scoop_command": "brave",
+		"description": "A fast and secure web browser with a built-in ad blocker and privacy protection features.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/brave-logo-png-transparent.png"
+	},
+	{
+		"name": "ShareX",
+		"scoop_command": "sharex",
+		"description": "A free and open source screen capture and file sharing tool for Windows.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/sharex-logo-png-transparent.png"
+	},
+	{
+		"name": "Android Studio",
+		"scoop_command": "android-studio",
+		"description": "An integrated development environment (IDE) for developing Android apps.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/android-studio-logo-png-transparent.png"
+	},
+	{
+		"name": "OBS Studio",
+		"scoop_command": "obs-studio",
+		"description": "Free and open source software for video recording and live streaming.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/obs-studio-logo-png-transparent.png"
+	},
+	{
+		"name": "VLC",
+		"scoop_command": "vlc",
+		"description": "A free and open source cross-platform multimedia player and framework.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/vlc-media-player-logo-png-transparent.png"
+	},
+	{
+		"name": "Discord",
+		"scoop_command": "discord",
+		"description": "A free voice, video, and text chat app designed for gamers.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/discord-logo-png-transparent.png"
+	},
+	{
+		"name": "Steam",
+		"scoop_command": "steam",
+		"description": "A digital distribution platform for video games.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/steam-logo-png-transparent.png"
+	},
+	{
+		"name": "Visual Studio Code",
+		"scoop_command": "vscode",
+		"description": "A free and open source code editor for building and debugging modern web and cloud applications.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png"
+	},
+	{
+		"name": "Signal",
+		"scoop_command": "signal",
+		"description": "A free and open source encrypted messaging app for mobile and desktop.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/signal-logo-png-transparent.png"
+	},
+	{
+		"name": "Temurin 17 JDK",
+		"scoop_command": "temurin17-jdk",
+		"description": "An open source implementation of the Java SE platform.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png"
+	},
+	{
+		"name": "Temurin 17 JRE",
+		"scoop_command": "temurin17-jre",
+		"description": "An open source implementation of the Java SE runtime environment.",
+		"image": "https://cdn.freebiesupply.com/logos/l"
+	},
+	{
+		"name": "Krita",
+		"scoop_command": "krita",
+		"description": "A free and open-source raster graphics editor for digital painting and 2D animation.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/krita-logo-png-transparent.png"
+	},
+	{
+		"name": "7-Zip",
+		"scoop_command": "7zip",
+		"description": "A file archiver with a high compression ratio.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/7-zip-logo-png-transparent.png"
+	},
+	{
+		"name": "Figma",
+		"scoop_command": "figma",
+		"description": "A browser-based interface design tool that allows multiple people to collaborate in real-time.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/figma-logo-png-transparent.png"
+	},
+	{
+		"name": "Node Version Manager",
+		"scoop_command": "nvm",
+		"description": "A tool that allows you to easily switch between different versions of Node.js on your machine.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/nodejs-logo-png-transparent.png"
+	},
+	{
+		"name": "qBittorrent",
+		"scoop_command": "qbittorrent",
+		"description": "A free and open source BitTorrent client.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/qbittorrent-logo-png-transparent.png"
+	},
+	{
+		"name": "Notepad++",
+		"scoop_command": "notepadplusplus",
+		"description": "A free source code editor and Notepad replacement that supports several languages.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/notepad-plus-plus-logo-png-transparent.png"
+	},
+	{
+		"name": "Stremio",
+		"scoop_command": "stremio",
+		"description": "A media center software that allows you to watch movies, TV shows, and live channels.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/stremio-logo-png-transparent.png"
+	},
+	{
+		"name": "Mailspring",
+		"scoop_command": "mailspring",
+		"description": "A free and powerful email client for MacOS, Windows, and Linux.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/mailspring-logo-png-transparent.png"
+	},
+	{
+		"name": "Streamlink",
+		"scoop_command": "streamlink",
+		"description": "A command-line utility that extracts streams from various services and pipes them into a video player.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/streamlink-logo-png-transparent.png"
+	},
+	{
+		"name": "Python",
+		"scoop_command": "python",
+		"description": "A high-level programming language that emphasizes code readability and ease of use.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/python-logo-png-transparent.png"
+	},
+	{
+		"name": "LibreWolf",
+		"scoop_command": "librewolf",
+		"description": "A privacy-focused web browser based on Mozilla Firefox.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/firefox-logo-png-transparent.png"
+	},
+	{
+		"name": "ONLYOFFICE Desktop Editors",
+		"scoop_command": "onlyoffice-desktopeditors",
+		"description": "A free and open-source office suite that provides tools for word processing, spreadsheets, and presentations.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/onlyoffice-logo-png-transparent.png"
+	},
+	{
+		"name": "KDE Connect",
+		"scoop_command": "kdeconnect",
+		"description": "A tool that allows your devices to communicate with each other and share files, URLs, and more.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/kde-logo-png-transparent.png"
+	},
+	{
+		"name": "Quick Picture Viewer",
+		"scoop_command": "quick-picture-viewer",
+		"description": "A lightweight image viewer that supports various image formats.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/windows-photo-viewer-logo-png-transparent.png"
+	},
+	{
+		"name": "VNC Viewer",
+		"scoop_command": "vncviewer",
+		"description": "A remote desktop access software that allows you to connect to and control another computer.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/vnc-logo-png-transparent.png"
+	},
+	{
+		"name": "EarTrumpet",
+		"scoop_command": "eartrumpet",
+		"description": "A volume control app for Windows 10 that gives you more control over your audio.",
+		"image": "https://i.imgur.com/LgISZ1R.png"
+	},
+	{
+		"name": "Bulk Crap Uninstaller",
+		"scoop_command": "bulk-crap-uninstaller",
+		"description": "A free and open-source uninstaller tool that can help you remove unwanted programs and clean up your system.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/bulk-crap-uninstaller-logo-png-transparent.png"
+	},
+	{
+		"name": "RustDesk",
+		"scoop_command": "rustdesk",
+		"description": "A free and open-source remote desktop client that allows you to control another computer over the internet.",
+		"image": "https://avatars.githubusercontent.com/u/58863194?s=200&v=4"
+	},
+	{
+		"name": "Nextcloud",
+		"scoop_command": "nextcloud",
+		"description": "A self-hosted file sharing and collaboration platform that allows you to store your files, contacts, calendars, and more on your own server.",
+		"image": "https://cdn.freebiesupply.com/logos/large/2x/nextcloud-logo-png-transparent.png"
+	}
+]
